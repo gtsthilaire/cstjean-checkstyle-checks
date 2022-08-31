@@ -4,7 +4,7 @@
           "https://checkstyle.org/dtds/configuration_1_3.dtd">
 
 <!--
-    CSTJEAN v0.0.3
+    CSTJEAN v0.0.4
     Based on https://raw.githubusercontent.com/checkstyle/checkstyle/checkstyle-10.3.2/src/main/resources/google_checks.xml
     Author: Gabriel T. St-Hilaire
 -->
@@ -387,8 +387,6 @@
     <module name="VisibilityModifier"/>
 
     <module name="JavadocVariable"/>
-
-    <module name="DesignForExtension"/>
 
     <module name="SingleSpaceSeparator"/>
 
